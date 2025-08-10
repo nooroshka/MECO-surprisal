@@ -8,7 +8,7 @@ Code + paper source for the structured (OneStop) and open-ended (MECO) analyses.
 ## What’s here
 - `notebooks/structured.ipynb` – OneStop analyses (surprisal comparison, GAM controls, disagreements).
 - `notebooks/open_ended.ipynb` – MECO L1/L2 analyses (lexical vs. syntactic surprisal).
-- `reports/CogSci_Template.bib`
+- `reports/Lexical vs. Syntactic Surprisal in Native and L2 Reading.pdf
 
 > Not included: datasets (OneStop/MECO), heavy caches (e.g., `surprisals.csv`), figures (on Overleaf).
 
